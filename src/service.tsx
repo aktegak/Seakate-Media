@@ -70,8 +70,8 @@ function Services() {
           <div className="grid md:grid-cols-3 gap-8">
             {[
               {
-                title: "Video Production & Editing",
-                description: "Marketing videos, social media content, documentaries, special events and many more.",
+                title: "Social Media Content Packages",
+                description: "Keep your feeds fresh, consistent, and engaging. We produce high quality short videos and photos delivered monthly to fuel your social media marketing.",
                 image: img3
               },
               {
