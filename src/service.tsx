@@ -70,18 +70,18 @@ function Services() {
           <div className="grid md:grid-cols-3 gap-8">
             {[
               {
-                title: "Portrait",
-                description: "Professional portraits that capture personality and essence, perfect for personal branding and corporate headshots.",
+                title: "Video Production & Editing",
+                description: "Marketing videos, social media content, documentaries, special events and many more.",
                 image: img3
               },
               {
-                title: "Events",
-                description: "Comprehensive event coverage ensuring every important moment is captured with style and precision.",
+                title: "Live Streaming and Broadcast",
+                description: "Seamless small-scale live stream setups for graduations, conferences, church services, or corporate events.",
                 image: "https://images.unsplash.com/photo-1505236858219-8359eb29e329"
               },
               {
-                title: "Product",
-                description: "Showcase your products with stunning photography that highlights every detail and feature.",
+                title: "Creative consultation",
+                description: "Ideation sessions, .",
                 image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8"
               }
             ].map((service, index) => (
