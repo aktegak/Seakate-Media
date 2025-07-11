@@ -178,7 +178,7 @@ function Home() {
           />
           <div className="absolute inset-0 bg-[#04E4D8]/0 group-hover:bg-[#04E4D8]/20 transition-colors duration-300"></div>
         </div>
-        <h4 className="text-2xl mb-2 heading-font">Healthy Step Into Your Calling: Hillsong College</h4>
+        <h4 className="text-2xl mb-2 heading-font">Step Into Your Calling: Hillsong College  </h4>
         
       </div>
       
@@ -191,7 +191,7 @@ function Home() {
           />
           <div className="absolute inset-0 bg-[#04E4D8]/0 group-hover:bg-[#04E4D8]/20 transition-colors duration-300"></div>
         </div>
-        <h4 className="text-2xl mb-2 heading-font">Ofesa Lavia  </h4>
+        <h4 className="text-2xl mb-2 heading-font">Ofesa Lavea Testimony  </h4>
      
       </div>
       
