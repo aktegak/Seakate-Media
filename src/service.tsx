@@ -136,18 +136,18 @@ function Services() {
           <div className="grid md:grid-cols-3 gap-8">
             {[
               {
-                title: "Portrait",
-                description: "Professional portraits that capture personality and essence, perfect for personal branding and corporate headshots.",
+                title: "Brand & Commercial Photography",
+                description: "We create crisp, vibrant images that showcase your products, services, and team in the best light.",
                 image: img3
               },
               {
-                title: "Events",
+                title: "Event Photography",
                 description: "Comprehensive event coverage ensuring every important moment is captured with style and precision.",
                 image: "https://images.unsplash.com/photo-1505236858219-8359eb29e329"
               },
               {
-                title: "Product",
-                description: "Showcase your products with stunning photography that highlights every detail and feature.",
+                title: "Corporate Headshots",
+                description: "We offer clean, consistent headshots for individuals and teams, with portable studio setups available.",
                 image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8"
               }
             ].map((service, index) => (
@@ -168,18 +168,18 @@ function Services() {
           <div className="grid md:grid-cols-3 gap-8">
             {[
               {
-                title: "Portrait",
-                description: "Professional portraits that capture personality and essence, perfect for personal branding and corporate headshots.",
+                title: "Special Occasion Photography",
+                description: "We cover personal celebrations with care and creativity.",
                 image: img3
               },
               {
-                title: "Events",
-                description: "Comprehensive event coverage ensuring every important moment is captured with style and precision.",
+                title: "Same-Day Highight Galleries",
+                description: "Need photos ready right away? We offer rapid editing so you can share fresh content within hours.",
                 image: "https://images.unsplash.com/photo-1505236858219-8359eb29e329"
               },
               {
-                title: "Product",
-                description: "Showcase your products with stunning photography that highlights every detail and feature.",
+                title: "Custom Photography Packages",
+                description: "Every project is unique. We’ll tailor a package that fits your vision, timeline, and budget.",
                 image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8"
               }
             ].map((service, index) => (
