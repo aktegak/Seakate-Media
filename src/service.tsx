@@ -173,7 +173,7 @@ function Services() {
                 image: img3
               },
               {
-                title: "Same-Day Highight Galleries",
+                title: "Same-Day Highlight Galleries",
                 description: "Need photos ready right away? We offer rapid editing so you can share fresh content within hours.",
                 image: "https://images.unsplash.com/photo-1505236858219-8359eb29e329"
               },
