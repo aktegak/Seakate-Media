@@ -165,7 +165,7 @@ function Home() {
   <div className="container mx-auto px-4">
     <h2 className="text-[#04E4D8] text-xl font-semibold mb-6"></h2>
     <h3 className="text-5xl md:text-6xl mb-16 heading-font text-teal">
-      Past Projects We've<br />
+      Past Projects We've worked on<br />
       <span className="heading-font italic"></span>
     </h3>
     <div className="grid md:grid-cols-3 gap-8">
@@ -178,7 +178,7 @@ function Home() {
           />
           <div className="absolute inset-0 bg-[#04E4D8]/0 group-hover:bg-[#04E4D8]/20 transition-colors duration-300"></div>
         </div>
-        <h4 className="text-2xl mb-2 heading-font">Healthy Churches</h4>
+        <h4 className="text-2xl mb-2 heading-font">Healthy Step Into Your Calling: Hillsong College</h4>
         
       </div>
       
