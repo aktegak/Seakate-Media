@@ -1,8 +1,15 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "seakate-media",
+  "version": "1.0.0",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
+  "description": "Official website of Seakate Media — a modern creative media company.",
+  "author": "Seakate Media <hello@seakatemedia.com.au>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aktegak/Seakate-Media.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
