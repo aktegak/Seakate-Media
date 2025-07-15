@@ -126,15 +126,6 @@ function Projects() {
             )}
           </Link>
           <Link 
-            to="/projects" 
-            className={`relative px-2 py-1 text-white hover:text-[#04E4D8] transition-colors font-playfair ${location.pathname === '/projects' ? 'text-[#04E4D8]' : ''}`}
-          >
-            PROJECTS
-            {location.pathname === '/projects' && (
-              <span className="absolute bottom-0 left-1/2 transform -translate-x-1/2 w-3/4 h-0.5 bg-[#04E4D8] rounded-full"></span>
-            )}
-          </Link>
-          <Link 
             to="/services" 
             className={`relative px-2 py-1 text-white hover:text-[#04E4D8] transition-colors font-playfair ${location.pathname === '/services' ? 'text-[#04E4D8]' : ''}`}
           >
@@ -149,6 +140,15 @@ function Projects() {
           >
             ABOUT
             {location.pathname === '/about' && (
+              <span className="absolute bottom-0 left-1/2 transform -translate-x-1/2 w-3/4 h-0.5 bg-[#04E4D8] rounded-full"></span>
+            )}
+          </Link>
+          <Link 
+            to="/projects" 
+            className={`relative px-2 py-1 text-white hover:text-[#04E4D8] transition-colors font-playfair ${location.pathname === '/projects' ? 'text-[#04E4D8]' : ''}`}
+          >
+            PROJECTS
+            {location.pathname === '/projects' && (
               <span className="absolute bottom-0 left-1/2 transform -translate-x-1/2 w-3/4 h-0.5 bg-[#04E4D8] rounded-full"></span>
             )}
           </Link>
