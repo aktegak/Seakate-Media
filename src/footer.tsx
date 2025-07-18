@@ -9,7 +9,7 @@ export function Footer() {
           <div>
             <h3 className="text-[#04E4D8] font-bold text-xl mb-4">Seakate Media</h3>
             <p className="text-gray-400">
-              Connecting Stories, Shaping Perspectives
+              Weave stories, shape emotions, and move hearts.
             </p>
           </div>
           <div>
@@ -24,9 +24,9 @@ export function Footer() {
           <div>
             <h4 className="text-[#04E4D8] font-bold mb-4">Contact</h4>
             <ul className="space-y-2 text-gray-400">
-              <li>info@sekeatmedia.com</li>
+              <li>hello@sekeatmedia.com</li>
               
-              <li>Location is 7 Durham Street</li>
+              <li>Address: 7 Durham Street</li>
               <li>Mount Druitt, 2770 , NSW</li>
             </ul>
           </div>

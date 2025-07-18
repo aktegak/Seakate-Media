@@ -86,7 +86,7 @@ function Home() {
               <span className="heading-font" style={{ fontSize: '4.5rem' }}>Shaping Perspective</span>
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-gray-300">
-            We don’t just press “record” we craft stories. 
+            We don’t just press “record”. we shape emotions, build brands, and move hearts.
 
             </p>
           </div>
@@ -101,7 +101,8 @@ function Home() {
       </h3>
       <div className="text-xl text-gray-300 space-y-6">
         <p className="text-justify">
-          At Seakate Media, we believe every moment and every brand has a narrative worth sharing. Our team combines years of professional experience in videography, photography, and storytelling to deliver visuals that captivate and connect. We've worked with educational institutions, churches, and clients from all walks of life, consistently turning their visions into powerful, engaging content. When you work with us, you're not just getting technical expertise—you're getting a dedicated partner who cares about your message, your audience, and your results.
+          At Seakate Media, we don’t just make videos — we craft stories that connect, convert, and inspire. With deep roots in both community and culture, our team brings years of hands-on experience in videography, photography, and live event production. From educational institutions to churches and community leaders, we’ve helped clients turn their message into magnetic visuals that move people to action.
+          When you work with us, you get more than a camera crew — you get a creative partner who understands your vision, cares about your impact, and delivers content that speaks straight to the heart.
         </p>
       </div>
     </div>
@@ -120,7 +121,7 @@ function Home() {
         key={i}
         className="heading-font text-white text-4xl md:text-6xl font-semibold tracking-tight mx-12 inline-block transform transition-all duration-300 hover:scale-110"
       >
-        Connecting stories and shaping perspective
+        We weave stories, shape emotions, and move hearts.
       </span>
     ))}
   </div>
