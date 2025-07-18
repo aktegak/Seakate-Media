@@ -115,7 +115,7 @@ function Projects() {
         </div>
 
         {/* Centered Navigation Links */}
-        <div className="hidden md:flex mx-auto space-x-8 items-center">
+        <div className="flex flex-col md:flex-row mx-auto space-y-2 md:space-y-0 md:space-x-8 items-center">
           <Link 
             to="/" 
             className={`relative px-2 py-1 text-white hover:text-[#04E4D8] transition-colors font-playfair ${location.pathname === '/' ? 'text-[#04E4D8]' : ''}`}
