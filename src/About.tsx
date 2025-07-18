@@ -71,7 +71,8 @@ const AboutPage: React.FC = () => {
 <br/>
 
   <p className="text-xl text-gray-300 mb-8 text-justify leading-relaxed">
-    We're a full-service team specialising in digital content across all platforms – Creative Strategy, Social Media, Web, Print, TV, and Live Events. We don't just follow trends; we set them. We combine agility with experience to develop creative solutions that drive results. At Seakate Media, we believe the key to a powerful brand lies in a compelling story. Forget fleeting influencers – we focus on building and amplifying enduring expert brands that resonate with their audiences. 
+    Seakate (ስኬት) means “success” in Amharic — and success is exactly what we deliver. We are not just another media team. We’re storytellers, strategists, and creatives with global vision and grassroots soul. From Qudos Bank Arena to Olympic Park, from international concerts to viral social content with millions of views — we’ve done it all.
+    Our founders have produced hundreds of educational videos, directed live events for world-class artists, and created social campaigns that cut through the noise.
   </p>
 </div>
 
@@ -114,7 +115,8 @@ const AboutPage: React.FC = () => {
             <div className="flex flex-col justify-center">
               <h2 className="text-5xl md:text-6xl mb-8 heading-font">Brands</h2>
               <p className="text-xl text-gray-300 mb-8 text-justify">
-                Our expertise extends beyond personal branding. We've also collaborated with established brands like MJ Bale, American Express, and Hachette to tell incredible stories. So whether it's crafting large-scale campaigns or creating engaging social content, we pride ourselves in our ability to bring the same dedication and expertise to every project.
+                We’ve had the privilege of working with trusted organisations such as Hillsong College, Mount Druitt Ethnic Communities Agency, and Blue Zebra Events. From educational institutions to cultural agencies and event specialists, we bring the same passion and precision to every project—whether it's a large-scale campaign or community-driven storytelling.
+                At Seakate Media, we believe in building long-term creative partnerships that deliver impact, not just content.
               </p>
               
             </div>
@@ -153,7 +155,8 @@ const AboutPage: React.FC = () => {
       <div className="flex flex-col justify-center md:w-1/2">
         <h2 className="text-5xl md:text-6xl mb-8 heading-font">About</h2>
         <p className="text-xl text-gray-300 mb-8 text-justify">
-          Our expertise extends beyond personal branding. We've also collaborated with established brands like MJ Bale, American Express, and Hachette to tell incredible stories. So whether it's crafting large-scale campaigns or creating engaging social content, we pride ourselves in our ability to bring the same dedication and expertise to every project.
+          But what makes us different? We bring heart. Based in Sydney, Seakate Media blends big-stage experience with community-first values. We've proudly partnered with schools, churches, cultural groups, and organisations like the Mount Druitt Ethnic Communities Agency and Hillsong College to craft stories that matter.
+          Whether you're building a brand, launching a movement, or marking a milestone — we bring your vision to life with cinematic quality and cultural authenticity. At Seakate, we don’t just record — we weave stories and emotions that people remember.
         </p>
       </div>
     </div>
