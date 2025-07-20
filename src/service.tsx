@@ -32,9 +32,9 @@ function Services() {
     <div className="hidden md:flex mx-auto space-x-6 items-center heading-font">
       {[
         { path: "/", label: "HOME" },
-        { path: "/projects", label: "PROJECTS" },
         { path: "/services", label: "SERVICES" },
         { path: "/about", label: "ABOUT" },
+        { path: "/projects", label: "PROJECTS" },
         { path: "/contact", label: "CONTACT" }
       ].map((link) => (
         <Link 
