@@ -127,16 +127,16 @@ function Contact() {
           <div className="pt-8 border-t border-gray-700">
             <h3 className="text-xl font-bold text-white mb-4 font-playfair">Follow Us</h3>
             <div className="flex space-x-6">
-              <a href="#" className="text-gray-400 hover:text-[#04E4D8] transition-colors">
+              <a href="https://www.facebook.com/seakatemedia" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#04E4D8] transition-colors">
                 <Facebook className="w-8 h-8" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-[#04E4D8] transition-colors">
+              <a href="https://twitter.com/seakatemedia" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#04E4D8] transition-colors">
                 <Twitter className="w-8 h-8" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-[#04E4D8] transition-colors">
+              <a href="https://www.instagram.com/seakatemedia" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#04E4D8] transition-colors">
                 <Instagram className="w-8 h-8" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-[#04E4D8] transition-colors">
+              <a href="https://www.linkedin.com/company/seakatemedia" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#04E4D8] transition-colors">
                 <Linkedin className="w-8 h-8" />
               </a>
             </div>
