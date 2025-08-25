@@ -119,7 +119,7 @@ function Contact() {
               <Mail className="w-6 h-6 text-[#04E4D8] mt-1" />
               <div>
                 <h3 className="text-xl font-bold text-white mb-2 font-playfair">Email Us</h3>
-                <p className="text-gray-300 font-montserrat">hello@seakatemedia.com</p>
+                <p className="text-gray-300 font-montserrat">hello@seakatemedia.com.au</p>
               </div>
             </div>
           </div>
