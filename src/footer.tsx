@@ -24,7 +24,7 @@ export function Footer() {
           <div>
             <h4 className="text-[#04E4D8] font-bold mb-4">Contact</h4>
             <ul className="space-y-2 text-gray-400">
-              <li>hello@seakatemedia.com</li>
+              <li>hello@seakatemedia.com.au</li>
               
               <li>Address: 7 Durham Street</li>
               <li>Mount Druitt, 2770 , NSW</li>
